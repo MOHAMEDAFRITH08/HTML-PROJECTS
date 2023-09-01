@@ -1,0 +1,29 @@
+/* .doof{
+    height: 200px;
+} */
+.doof{
+    background-color: #f6c56e ;
+}
+.Bg-Color{
+    background-color: #f6c56e;
+    color: #323f4b;
+    margin-top: -110px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    font-family: 'Bree Serif', serif;
+    font-size: larger;
+    padding-left: 30px;
+}
+.bg-but{
+    background-color: #ffffff;
+    color: #323f4b;
+    font-family: 'Roboto';
+
+}
+.card{
+    margin-left: 250px;
+}
+.parata{
+    font-family: 'Roboto';
+
+}

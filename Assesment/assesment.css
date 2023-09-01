@@ -1,0 +1,87 @@
+.Main_One {
+    height: 100vh;
+    width: 100%;
+}
+
+.Main_Two {
+    height: 130vh;
+    width: 100%;
+    background-color: rgb(14, 222, 14);
+}
+
+.Main_Three {
+    height: 100vh;
+    width: 100%;
+
+}
+
+.Main_Four {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(26, 229, 26);
+}
+.Main_Five{
+    height: 100vh;
+    width: 100%;
+}
+
+.Title_Org {
+    color: rgb(14, 222, 14);
+
+}
+
+.Background-img {
+    background-image: url("pexels-jane-doan-1128678.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Org {
+    font-family: 'Fasthand', cursive;
+    font-size: 60px;
+    color: rgb(11, 237, 11);
+}
+
+.Navv {
+    background-color: darkgray;
+}
+
+.Button {
+    background-color: rgb(30, 230, 30);
+}
+
+.Buttton {
+    background-color: orange;
+}
+
+.Sub_One {
+    text-align: center;
+    color: white;
+}
+
+.Txt_one {
+    text-align: center;
+}
+
+.Body_img {
+    text-align: center;
+    padding: 20px;
+}
+
+.Image {
+    height: 100vh;
+}
+
+.Third_Body {
+    margin-top: 160px;
+}
+
+.Title_Prms {
+    color: rgb(24, 225, 24);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+
+}

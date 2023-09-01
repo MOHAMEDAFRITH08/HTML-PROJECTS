@@ -1,0 +1,28 @@
+.main{
+    height: 25rem;
+    width: 40rem;
+    margin-left: 18rem;
+}
+
+.carousel .carousel-indicators button{
+
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: cadetblue;
+}
+
+.Dan{
+    background-color: aquamarine;
+    border: black;
+}
+.napp{
+    background-color: burlywood;
+}
+.one:hover{
+    background-color: brown;
+    color: black;
+    border-radius: 10px;
+}
+
+

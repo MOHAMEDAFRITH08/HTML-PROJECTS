@@ -1,0 +1,12 @@
+.background{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
+.details{
+    text-align: center;
+    position: relative;
+    top: 45%;
+}

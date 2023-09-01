@@ -1,0 +1,15 @@
+.main{
+    /* background-image: url("backg1.jpg"); */
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+    width: 680px;
+   
+   
+}
+.Fav_Plc{
+
+    height: 140px;
+    width: 140px;
+}

@@ -1,0 +1,22 @@
+.border-three{
+    
+    width: 100%;
+    height: 340px;
+    border: none;
+}
+.color-one{
+    color: rgb(133, 131, 131);
+}
+.border-four{
+    
+    width: 100%;
+    height: 340px;
+    border: none;
+}
+.color-two{
+    color: rgb(133, 131, 131);
+    font-weight: bold;
+}
+.font-one{
+    font-size: 20px;
+}

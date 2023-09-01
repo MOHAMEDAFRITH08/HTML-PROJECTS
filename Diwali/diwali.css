@@ -1,0 +1,58 @@
+.comt {
+    background-color: aqua;
+    width: 91vw;
+    height: 73vh;
+}
+
+.one {
+    /* height: 120px; */
+    width: 100px;
+    margin-left: 450px;
+    height: 176px;
+}
+
+.two {
+    width: 100px;
+    height: 176px;
+
+
+}
+
+.three {
+    width: 100px;
+    margin-left: 450px;
+    height: 176px;
+
+}
+
+.four {
+
+    width: 100px;
+    height: 176px;
+}
+
+p1 {
+
+    padding-top: -60px;
+}
+
+p {
+    padding-top: 0%;
+}
+.pic{
+    padding-top: -30px;
+
+}
+.pic1{
+    padding-top: -30px;
+}
+.button{
+    margin-left: 500px;
+    font-size: medium;
+
+}
+.text{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    
+}

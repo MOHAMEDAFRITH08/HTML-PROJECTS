@@ -1,0 +1,20 @@
+.main{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-left: 30px;
+}
+.sub{
+    background-color: #00000080;
+    border: solid 5px #48ee59;
+    padding-left: 60px;
+    padding-top: 45px;
+    width: 290px;
+    height: 290px;
+    font-family: 'Bree Serif', serif;
+    
+}
